@@ -1,5 +1,5 @@
-# python-multiple-file-transfer-using-sockets
-Send multiple files from Client to Server using socket and zipfile modules
+# python-multiple-images-transfer-using-sockets
+Send multiple images from Client to Server using socket and zipfile modules
 ### Usage:
 #### Server
 ```
@@ -10,4 +10,4 @@ python server.py
 ```
 python client.py 3
 ```
-Here, argument denotes the number of files to send
+Here, argument denotes the number of images to send
