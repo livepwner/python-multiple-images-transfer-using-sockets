@@ -1,6 +1,6 @@
 # python-multiple-file-transfer-using-sockets
 Send multiple files from Client to Server using socket and zipfile modules
-### Usage
+### Usage:
 #### Server
 ```
 python server.py
